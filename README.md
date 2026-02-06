@@ -16,4 +16,4 @@ make_batch()
 begin_subtask() & finalize()
 ```
 `begin_subtask()` signalizes the beginning of a new subtask in which all further defined testcases will be a part of, unless a new subtask is created.
-`finalize()` initiates actual generation of the testcases and renames them such that an adequate ammount of zeroes are used for padding. 
+`finalize()` initiates actual generation of the testcases and renames them such that an adequate amount of zeroes are used for padding. 
